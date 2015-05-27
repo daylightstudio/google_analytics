@@ -11,7 +11,8 @@ This module is a port of the Google Analytics widget provided by PyroCMS.
 It also makes use of the Analytics lib by Vincent Kleijnendorst.
 
 ## Description
-Use this module to access Google Analytics stats directly inside the FuelCMS dashboard.
+***This module no longer works correctly due to a change in [https://developers.google.com/accounts/docs/AuthForInstalledApps](Google Authentication).***
+Use this module to access Google Analytics stats directly inside the FuelCMS dashboard. 
 
 ## Installation
 Copy the google_analytics folder inside your /fuel/modules/ folder and edit the config/google_analytics.php file.
